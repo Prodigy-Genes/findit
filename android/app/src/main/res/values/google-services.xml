@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://findit-cb8ed.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">824275229257</string>
+    <string name="google_api_key" translatable="false">AIzaSyAeNjonS7BFhNzNtn7ZDxgN3ASht6HLeBU</string>
+    <string name="google_app_id" translatable="false">1:824275229257:android:cfd0ac80c20c15b2d6fd98</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAeNjonS7BFhNzNtn7ZDxgN3ASht6HLeBU</string>
+    <string name="google_storage_bucket" translatable="false">findit-cb8ed.appspot.com</string>
+    <string name="project_id" translatable="false">findit-cb8ed</string>
+</resources>
